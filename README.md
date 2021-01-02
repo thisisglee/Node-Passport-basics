@@ -1,2 +1,2 @@
 # Node-Passport-basics
-Node baiscs with Passport authentication
+Node basics with Passport authentication
